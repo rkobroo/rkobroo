@@ -16,9 +16,9 @@
 A powerful, modern video downloader Progressive Web App that supports downloading videos from TikTok, YouTube, Instagram, Facebook, Twitter, and more.
 
 ## Features
+<div align="center">
 
-- 🎥 Download videos from 1000+ websites
-- | Platform | Status | Features |
+| Platform | Status | Features |
 |----------|--------|----------|
 | 📸 **Instagram** | ✅ Active | Posts, Stories, Reels |
 | 🎵 **TikTok** | ✅ Active | Videos, No Watermark |
@@ -29,8 +29,11 @@ A powerful, modern video downloader Progressive Web App that supports downloadin
 | 🎬 **CapCut** | ✅ Active | Templates |
 | 💾 **Google Drive** | ✅ Active | Public Files |
 | 📌 **Pinterest** | ✅ Active | Images, Search |
+| 🔄 **AIO** | 🔧 Maintenance | Universal Downloader |
 
+</div>
 
+---
 - 📱 Installable PWA (Progressive Web App)
 - 🔄 Share Target API integration - appears in share menus
 - 🔔 Push notifications for download status
