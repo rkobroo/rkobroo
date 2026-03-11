@@ -1,15 +1,15 @@
 # 👋 **Hi, I’m RKO BRO**
 
-- 🏠 **Address: Nepal  **
+- 🏠 **Address: Nepal**
 - 📚 **Education: Civil Engineer  **
-- 🦹🏻 **Age:** 24  
+- 🦹🏻 **Age: 24** 
 - 📞 **Contact:** [Facebook Profile](https://www.facebook.com/profile.php?id=61581151980604)  
-- 👀 **I’m interested in: Engineering works  **
-- 🌱 **I’m currently learning:JavaScript ** 
-- 💞️ **Looking to collaborate on:** Facebook  
+- 👀 **I’m interested in: Engineering works**
+- 🌱 **I’m currently learning:JavaScript** 
+- 💞️ **Looking to collaborate on:Facebook**  
 - 📫 **How to reach me:Contact me on FB: RKO BRO**  
-- 😄 **Pronouns: TRIBAL CHEF 👆🏻 ** 
-- ⚡ **Fun fact:Funny guy, looking for soji girl 💝 **
+- 😄 **Pronouns: TRIBAL CHEF 👆🏻** 
+- ⚡ **Fun fact:Funny guy, looking for soji girl 💝**
 - 💌 **My big project: **RKO DOWNLOADER**  
 - 🔗 **Demo video link:** [View here](https://imgur.com/a/kWzJ9s1)
 
