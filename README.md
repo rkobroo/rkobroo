@@ -11,17 +11,17 @@
 - 😄 **Pronouns: TRIBAL CHEF 👆🏻** 
 - ⚡ **Fun fact:Funny guy, looking for soji girl 💝**
 - 💌 **My big project: RKO DOWNLOADER**  
-- 🔗 **Demo video link:** [View here](https://imgur.com/a/kWzJ9s1) #
+- 🔗 **Demo video link:** [View here](https://imgur.com/a/kWzJ9s1) 
 
 
 
-- 👋 Hi, I’m RKO BRO
-- 🏠 Address :Nepal
-- 📚Education: Civil Engineer
-- Age🦹🏻 : 24
-- Contact📞: https://www.facebook.com/profile.php?id=61581151980604
-- 👀 I’m interested in Engineering works
-- 🌱 I’m currently learning JavaScript 
+#   👋 Hi, I’m RKO BRO
+# 🏠 Address :Nepal
+ # 📚Education: Civil Engineer
+#  Age🦹🏻 : 24
+#  Contact📞: https://www.facebook.com/profile.php?id=61581151980604
+#  👀 I’m interested in Engineering works
+#  🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Facebook 
 - 📫 How to reach me ,Contact me on fb : RKO BRO
 - 😄 Pronouns: TRIBAL CHEF 👆🏻 
