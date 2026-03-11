@@ -49,70 +49,70 @@
 
 ## Deployment
 
-### Vercel Deployment
+### **Vercel Deployment**
 
-1. Fork this repository
-2. Connect to Vercel
-3. Deploy with the included `vercel.json` configuration
-4. Your app will be available at `https://your-app.vercel.app`
+1. **Fork this repository**
+2. **Connect to Vercel**
+3. **Deploy with the included `vercel.json` configuration**
+4. **Your app will be available at `https://your-app.vercel.app`**
 
-### Netlify Deployment
+### **Netlify Deployment**
 
-1. Fork this repository
-2. Connect to Netlify
-3. Deploy with the included `netlify.toml` configuration
-4. Your app will be available at `https://your-app.netlify.app`
+1. **Fork this repository**
+2. **Connect to Netlify**
+3. **Deploy with the included `netlify.toml` configuration**
+4. **Your app will be available at `https://your-app.netlify.app`**
 
-## PWA Installation
+## **PWA Installation**
 
-### Mobile Devices (Android/iOS)
+### **Mobile Devices (Android/iOS)**
 
-1. Visit the deployed website
-2. Look for "Install App" button or browser's install prompt
-3. Tap "Add to Home Screen" when prompted
-4. The app will be installed like a native app
+1. **Visit the deployed website**
+2. **Look for "Install App" button or browser's install prompt**
+3. **Tap "Add to Home Screen" when prompted**
+4. **The app will be installed like a a native app**
 
-### Desktop (Chrome, Edge, etc.)
+### **Desktop (Chrome, Edge, etc.)**
 
-1. Visit the deployed website
-2. Look for install icon in address bar or "Install App" button
-3. Click install when prompted
-4. App will be added to your applications
+1. **Visit the deployed website**
+2. **Look for install icon in address bar or "Install App" button**
+3. **Click install when prompted**
+4. **App will be added to your applications**
 
-## Social Media Integration
+## **Social Media Integration**
 
 Once deployed and installed, the app will:
 
-- Appear in share menus across social media apps
-- Accept shared URLs automatically
-- Process video downloads when URLs are shared to the app
-- Show up in Android's "Open with" dialog for video URLs
+- **Appear in share menus across social media apps**
+- **Accept shared URLs automatically**
+- **Process video downloads when URLs are shared to the app**
+- **Show up in Android's "Open with" dialog for video URLs**
 
-## Configuration Files
+## **Configuration Files**
 
-- `manifest.json` - PWA configuration and metadata
-- `sw.js` - Service worker for offline functionality
-- `vercel.json` - Vercel deployment configuration
-- `netlify.toml` - Netlify deployment configuration
+- **`manifest.json` - PWA configuration and metadata**
+- **`sw.js` - Service worker for offline functionality**
+- **`vercel.json` - Vercel deployment configuration**
+- **`netlify.toml` - Netlify deployment configuration**
 
-## Browser Support
+## **Browser Support**
 
-- Chrome/Chromium (full features)
-- Safari (iOS/macOS)
-- Firefox (limited PWA features)
-- Edge (full features)
+- **Chrome/Chromium (full features)**
+- **Safari (iOS/macOS)**
+- **Firefox (limited PWA features)**
+- **Edge (full features)**
 
-## Development
+## **Development**
 
 To run locally:
 
-1. Clone the repository
-2. Serve files with any HTTP server
-3. Access via `localhost` or use a tunneling service for PWA features
+1. **Clone the repository**
+2. **Serve files with any HTTP server**
+3. **Access via `localhost` or use a tunneling service for PWA features**
 
-## License
+## **License**
 
-MIT License - feel free to use and modify as needed.
+**MIT License - feel free to use and modify as needed.**
 
 <!---
 rkobroo/rkobroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
