@@ -7,7 +7,7 @@
 - 👀 **I’m interested in: Engineering works**
 - 🌱 **I’m currently learning: JavaScript** 
 - 💞️ **Looking to collaborate on: Facebook**  
-- 📫 **How to reach me:Contact me on FB: RKO BRO**  
+- 📫 **How to reach me Contact me on FB: RKO BRO**  
 - 😄 **Pronouns: TRIBAL CHEF 👆🏻** 
 - ⚡ **Fun fact:Funny guy, looking for soji girl 💝**
 - 💌 **My big project: RKO DOWNLOADER**  
