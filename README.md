@@ -23,7 +23,7 @@
 **A powerful, modern video downloader Progressive Web App that supports downloading videos from TikTok, YouTube, Instagram, Facebook, Twitter, and more.**
 
  </h5>
-<img src="https://i.postimg.cc/59kNCcGp/IMG-20260310-163523.jpg" alt="banner">
+<img src="https://i.postimg.cc/1XN1Rq2b/IMG-20260623-143425.jpg" alt="banner">
 
 ## Features
 <div align="center">
