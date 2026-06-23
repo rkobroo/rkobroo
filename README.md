@@ -53,7 +53,7 @@
 
 ## **Android App System**
 
-- **📥 Download the APK: [rko-downloader.pages.dev/download](https://rko-downloader.pages.dev/download)**
+- **📥 Download the APK: [rko-downloader.pages.dev/app.apk](https://rko-downloader.pages.dev/app.apk)**
 - **📱 Android 10+ required**
 - **⚡ Foreground service for reliable downloads**
 - **🔔 Progress notifications with thumbnail preview**
