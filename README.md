@@ -30,8 +30,8 @@
 
 | Platform | Status | Features |
 |----------|--------|----------|
-| 📸 **Instagram** | ✅ Active | Posts, Stories, Reels |
-| 🎵 **TikTok** | ✅ Active | Videos, No Watermark |
+| 📸 **Instagram** | ✅ Active | Posts, Stories, Reels, Photos |
+| 🎵 **TikTok** | ✅ Active | Videos, Photos, No Watermark |
 | 📘 **Facebook** | ✅ Active | Videos, Posts, Photos |
 | 🐦 **Twitter** | ✅ Active | Videos, Images |
 | 🎬 **YouTube** | ✅ Active | Videos, Audio |
