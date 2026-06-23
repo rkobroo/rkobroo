@@ -67,21 +67,14 @@
 3. **Deploy with the included `netlify.toml` configuration**
 4. **Your app will be available at `https://your-app.netlify.app`**
 
-## **PWA Installation**
+## **Android App System**
 
-### **Mobile Devices (Android/iOS)**
-
-1. **Visit the deployed website**
-2. **Look for "Install App" button or browser's install prompt**
-3. **Tap "Add to Home Screen" when prompted**
-4. **The app will be installed like a a native app**
-
-### **Desktop (Chrome, Edge, etc.)**
-
-1. **Visit the deployed website**
-2. **Look for install icon in address bar or "Install App" button**
-3. **Click install when prompted**
-4. **App will be added to your applications**
+- **📥 Download the APK: [rko-downloader.pages.dev/download](https://rko-downloader.pages.dev/download)**
+- **📱 Android 10+ required**
+- **⚡ Foreground service for reliable downloads**
+- **🔔 Progress notifications with thumbnail preview**
+- **💾 Saves to Pictures/RKO Downloader or Movies/RKO Downloader**
+- **🔄 Share intent integration — share any video URL to the app**
 
 ## **Social Media Integration**
 
