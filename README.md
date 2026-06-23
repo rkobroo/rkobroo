@@ -30,11 +30,11 @@
 
 | Platform | Status | Features |
 |----------|--------|----------|
-| 📸 **Instagram** | ✅ Active | Posts, Stories, Reels, Photos |
-| 🎵 **TikTok** | ✅ Active | Videos, Photos, No Watermark |
-| 📘 **Facebook** | ✅ Active | Videos, Posts, Photos |
-| 🐦 **Twitter** | ✅ Active | Videos, Images |
-| 🎬 **YouTube** | ✅ Active | Videos, Audio |
+| 📸 **Instagram** | ✅ Active | Posts, Stories, Reels, Photos, Title |
+| 🎵 **TikTok** | ✅ Active | Videos, Photos, Title, No Watermark |
+| 📘 **Facebook** | ✅ Active | Videos, Posts, Photos, Title |
+| 🐦 **Twitter** | ✅ Active | Videos, Images, Title |
+| 🎬 **YouTube** | ✅ Active | Videos, Audio, Title |
 | 📁 **MediaFire** | ✅ Active | Direct Downloads |
 | 🎬 **CapCut** | ✅ Active | Templates |
 | 💾 **Google Drive** | ✅ Active | Public Files |
