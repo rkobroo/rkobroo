@@ -14,7 +14,7 @@
 - 😄 **Pronouns: TRIBAL CHEF 👆🏻** 
 - ⚡ **Fun fact:Funny guy, looking for soji girl 💝**
 - 💌 **My big project: [RKO DOWNLOADER](https://rko-downloader.pages.dev)**  
-- 🔗 **Demo video link: [View here](https://imgur.com/a/kWzJ9s1)**
+- 🎬 **Demo video: [Watch](https://i.imgur.com/I0glfCL.mp4)**
 
 - # RKO Downloader - Progressive Web App
 
