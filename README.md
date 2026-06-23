@@ -32,7 +32,7 @@
 |----------|--------|----------|
 | 📸 **Instagram** | ✅ Active | Posts, Stories, Reels |
 | 🎵 **TikTok** | ✅ Active | Videos, No Watermark |
-| 📘 **Facebook** | ✅ Active | Videos, Posts |
+| 📘 **Facebook** | ✅ Active | Videos, Posts, Photos |
 | 🐦 **Twitter** | ✅ Active | Videos, Images |
 | 🎬 **YouTube** | ✅ Active | Videos, Audio |
 | 📁 **MediaFire** | ✅ Active | Direct Downloads |
