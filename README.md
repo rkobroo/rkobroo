@@ -18,7 +18,7 @@
 
 - # RKO Downloader - Progressive Web App
 
-- **[Download Link For RKO Downloader ](https://drive.usercontent.google.com/download?id=1k8gnbAm2VSPD9UhMmOseEu2gC_2dSqtU&export=download&authuser=0)**
+- **[Download APK](https://rko-downloader.pages.dev/app.apk)**
 
 **A powerful, modern video downloader Progressive Web App that supports downloading videos from TikTok, YouTube, Instagram, Facebook, Twitter, and more.**
 
