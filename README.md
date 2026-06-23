@@ -51,22 +51,6 @@
 - **📲 Works offline with service worker caching**
 - **💾 Enhanced file picker with File System Access API**
 
-## Deployment
-
-### **Vercel Deployment**
-
-1. **Fork this repository**
-2. **Connect to Vercel**
-3. **Deploy with the included `vercel.json` configuration**
-4. **Your app will be available at `https://your-app.vercel.app`**
-
-### **Netlify Deployment**
-
-1. **Fork this repository**
-2. **Connect to Netlify**
-3. **Deploy with the included `netlify.toml` configuration**
-4. **Your app will be available at `https://your-app.netlify.app`**
-
 ## **Android App System**
 
 - **📥 Download the APK: [rko-downloader.pages.dev/download](https://rko-downloader.pages.dev/download)**
